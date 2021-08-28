@@ -1,0 +1,16 @@
+C:\Users\IT\source\repos\Login Panel\bin\Debug\net5.0\Login Panel.exe
+C:\Users\IT\source\repos\Login Panel\bin\Debug\net5.0\Login Panel.deps.json
+C:\Users\IT\source\repos\Login Panel\bin\Debug\net5.0\Login Panel.runtimeconfig.json
+C:\Users\IT\source\repos\Login Panel\bin\Debug\net5.0\Login Panel.runtimeconfig.dev.json
+C:\Users\IT\source\repos\Login Panel\bin\Debug\net5.0\Login Panel.dll
+C:\Users\IT\source\repos\Login Panel\bin\Debug\net5.0\ref\Login Panel.dll
+C:\Users\IT\source\repos\Login Panel\bin\Debug\net5.0\Login Panel.pdb
+C:\Users\IT\source\repos\Login Panel\obj\Debug\net5.0\Login Panel.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\Login Panel\obj\Debug\net5.0\Login Panel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\source\repos\Login Panel\obj\Debug\net5.0\Login Panel.AssemblyInfoInputs.cache
+C:\Users\IT\source\repos\Login Panel\obj\Debug\net5.0\Login Panel.AssemblyInfo.cs
+C:\Users\IT\source\repos\Login Panel\obj\Debug\net5.0\Login Panel.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\Login Panel\obj\Debug\net5.0\Login Panel.dll
+C:\Users\IT\source\repos\Login Panel\obj\Debug\net5.0\ref\Login Panel.dll
+C:\Users\IT\source\repos\Login Panel\obj\Debug\net5.0\Login Panel.pdb
+C:\Users\IT\source\repos\Login Panel\obj\Debug\net5.0\Login Panel.genruntimeconfig.cache
